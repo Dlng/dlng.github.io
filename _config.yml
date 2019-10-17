@@ -16,7 +16,7 @@
 title: Roboeye.ai
 email: info@roboeye.ai
 description: >- # this means to ignore newlines until "baseurl:"
-  Solve Intelligence for Industry
+  Solve Intelligence for Manufacturing
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://roboeye.ai" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
